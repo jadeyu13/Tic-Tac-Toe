@@ -1,0 +1,29 @@
+table{
+    margin: 0 auto;
+    
+}
+
+td{
+   width: 100px;
+   height: 100px;
+   font-size: 0;
+  
+}
+.second-box{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.bottom-line{
+    border-bottom:1px solid black;
+}
+
+
+/*td:nth-of-type(odd){
+    border:
+    border-collapse: collapse;
+}
+
+td:nth-of-type(even){
+    border-bottom: 1px solid black;;
+}
